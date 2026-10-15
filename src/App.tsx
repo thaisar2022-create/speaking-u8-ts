@@ -409,7 +409,7 @@ export default function App() {
           <div className="brandwrap">
             <img
               className="school-logo"
-              src="/school-logo.png"
+              src="https://lh3.googleusercontent.com/pw/AP1GczOgaajYlB0tna2h3tHcz5qkUYVKilPtE-iG2iI9HhTjmgxOtQoBcU3Q0L6qnm8euJIuRd81RCA6-1ya5D7I0ze4zn8xOKDgBqbf75rqMXMWANWcQrE=w2400"
               alt="ThaiSar school logo"
               onError={(e) => {
                 // Fallback to SVG if needed
