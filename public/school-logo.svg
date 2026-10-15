@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" width="160" height="160">
+  <defs>
+    <linearGradient id="purpleGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#67167f" />
+      <stop offset="100%" stop-color="#3b0a4a" />
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffec40" />
+      <stop offset="100%" stop-color="#f5b300" />
+    </linearGradient>
+  </defs>
+  <!-- Background Circle -->
+  <circle cx="80" cy="80" r="76" fill="url(#purpleGrad)" stroke="url(#goldGrad)" stroke-width="4.5" />
+  <!-- Inner Ring -->
+  <circle cx="80" cy="80" r="68" fill="none" stroke="#ffffff33" stroke-width="1.5" stroke-dasharray="3 3" />
+  
+  <!-- Thai Flag Accent & Crest Accent -->
+  <path d="M 46 54 Q 80 40 114 54 Q 80 64 46 54 Z" fill="url(#goldGrad)" opacity="0.9" />
+  
+  <!-- Stylized Elephant / Open Book / Lotus Emblem -->
+  <path d="M 50 82 C 50 68, 65 64, 80 72 C 95 64, 110 68, 110 82 C 95 86, 85 96, 80 106 C 75 96, 65 86, 50 82 Z" fill="#ffffff" />
+  <circle cx="80" cy="62" r="6" fill="url(#goldGrad)" />
+  <path d="M 68 85 Q 80 76 92 85" stroke="#4d1060" stroke-width="2.5" fill="none" stroke-linecap="round" />
+  
+  <!-- Text ThaiSar -->
+  <text x="80" y="125" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-size="16" fill="#ffec40" letter-spacing="2">THAISAR</text>
+  <text x="80" y="141" text-anchor="middle" font-family="'Noto Sans Myanmar', system-ui, sans-serif" font-weight="600" font-size="9" fill="#e7d4f3" letter-spacing="1">ထိုင်းစာကျောင်း</text>
+</svg>

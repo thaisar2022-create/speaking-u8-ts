@@ -1,0 +1,23 @@
+{
+  "name": "ThaiSar · အခန်း (၈)",
+  "short_name": "ThaiSar U8",
+  "description": "Thai listening and speaking for Myanmar learners — Unit 8 · လမ်းညွှန်ခြင်း",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f3fa",
+  "theme_color": "#4d1060",
+  "icons": [
+    {
+      "src": "/school-logo.svg",
+      "sizes": "160x160 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/school-logo.png",
+      "sizes": "160x160",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
